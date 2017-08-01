@@ -1,4 +1,4 @@
-# Cohort name, year
+# Kahu 2018
 
 Kia ora.
 
@@ -23,8 +23,8 @@ Your learning journey unfolds:
 Go well, ngā mihi...
 
 <figure>
-  <img src="" alt=""><br>
+  <img src="http://www.middlemarch.co.nz/images/australasian-harrier-large.jpg" alt=""><br>
   <figcaption>
-    <p>Description, attribution.</p>
+    <p>A beautiful and terrifying Kahu, middlemarch.co.nz</p>
   </figcaption>
 </figure>
