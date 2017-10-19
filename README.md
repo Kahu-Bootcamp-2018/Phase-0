@@ -15,6 +15,7 @@ Your learning journey unfolds:
 - [Sprint 7 overview](/sprints/7-overview) :sunflower:
 - [Sprint 8 overview](/sprints/8-overview) :cherry_blossom:
 - [Sprint 9 overview](/sprints/9-overview) :balloon:
+
 <br><br>
 - [Our expectations of you](https://github.com/dev-academy-programme/orientation/tree/master/expectations)
 - [Orientation checklist](https://github.com/dev-academy-programme/orientation)
