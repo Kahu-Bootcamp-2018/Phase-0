@@ -8,4 +8,4 @@ I kept on reminding myself to commit my time into doing the assignment, even whe
 
 # What could I have done to improve?
 
-I stumbled and procrastinate when in section related to time tracking. I guess I was really afraid to track my own time. I would like to make time tracking my long term habit.
+I stumbled and procrastinate when in section related to time tracking. I guess I was really afraid to track my own time. I would like to make time tracking my long term habit. I was also slow down at the cultural reflection part when listening to Shereef’s. It looks like I have difficulty to focus on listening when all the thing in the video is Shereef's face. This is also the part that I need to improve, be an active listener while looking at someone's eyes.
